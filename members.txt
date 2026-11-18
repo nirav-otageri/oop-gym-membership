@@ -1,0 +1,14 @@
+Member ID: 101
+Name: Alice
+Age: 25
+Mobile: 9876543210
+Duration: 1 Months
+Fees: Rs. 1000
+----------------------
+Member ID: 102
+Name: Ravi
+Age: 30
+Mobile: 9123456780
+Duration: 3 Months
+Fees: Rs. 2500
+----------------------
